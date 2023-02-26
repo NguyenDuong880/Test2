@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\CHTNhung\LapTrinhNhung\Test2\Test2\main.cpp(23,11): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+E:\CHTNhung\LapTrinhNhung\Test2\Test2\main.cpp(23,11): warning C4566: character represented by universal-character-name '\u01A1' cannot be represented in the current code page (1252)
+E:\CHTNhung\LapTrinhNhung\Test2\Test2\main.cpp(26,2): warning C4094: untagged 'class' declared no symbols
+E:\CHTNhung\LapTrinhNhung\Test2\Test2\main.cpp(12,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\CHTNhung\LapTrinhNhung\Test2\Test2\main.cpp(20,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Test2.vcxproj -> E:\CHTNhung\LapTrinhNhung\Test2\Debug\Test2.exe
